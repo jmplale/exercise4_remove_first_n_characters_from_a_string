@@ -9,3 +9,6 @@ word = "pynative"
 
 # print an introduction outcome
 print(f"The word is {word}")
+
+# print the first example
+print(remove_chars(word, 4))
