@@ -5,3 +5,4 @@ def remove_chars(string, n):
     
     return string[n:]
 
+word = "pynative"
