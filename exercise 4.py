@@ -6,3 +6,6 @@ def remove_chars(string, n):
     return string[n:]
 
 word = "pynative"
+
+# print an introduction outcome
+print(f"The word is {word}")
