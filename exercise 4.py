@@ -12,3 +12,6 @@ print(f"The word is {word}")
 
 # print the first example
 print(remove_chars(word, 4))
+
+# print the second example
+print(remove_chars(word, 2))
